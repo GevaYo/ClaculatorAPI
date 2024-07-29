@@ -1,0 +1,1 @@
+call bin\Debug\net6.0\ClaculatorAPI.exe
